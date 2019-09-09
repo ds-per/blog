@@ -1,0 +1,4 @@
+baseURL = "http://danielsantos.com/"
+languageCode = "en-us"
+title = "Daniel Santos"
+theme = "spf13"
